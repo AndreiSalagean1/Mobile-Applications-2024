@@ -41,8 +41,8 @@ Offline functionality caters to situations where a user may not have an active i
 
 App Mockup: 
 Two visual representations of the application's user interface are provided below. The first captures the list  of existing volleyball matches, while the second showcases the ease of creating a new match. 
- 
-![image](https://github.com/user-attachments/assets/328501bc-f17f-4223-bdf8-72135b9f69ad)
+<img width="344" height="612" alt="mock" src="https://github.com/user-attachments/assets/f3cc3659-74b3-4005-8ba8-fba1b32f751b" />
+
 
 In essence, our Volleyball Match Organizer App offers a sophisticated solution for the efficient management of volleyball matches, catering to both tech-savvy and non-technical users alike. It ensures data integrity and synchronization, regardless of online or offline scenarios, thus simplifying the entire process of match organization and archiving. 
 
